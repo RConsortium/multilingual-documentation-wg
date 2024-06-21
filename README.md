@@ -32,7 +32,6 @@ R.
 
 -   Paola Corrales
 -   Elio Campitelli: WG Lead
--   Renata Hirota
 
 To contribute to this working group, please open a PR to add you name on
 the list.
