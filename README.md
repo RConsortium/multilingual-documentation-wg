@@ -40,6 +40,6 @@ the list.
 
 -   This repository for meeting notes, materials and issues
 
--   Slack channel for informal and quick communication
+-   Slack channel for informal and quick communication: [#wg-multilingual-r-documentation in the R Consortium Slack](https://rconsortium.slack.com/archives/C075V1SUKT9)
 
 -   Mailing list for formal announcements
