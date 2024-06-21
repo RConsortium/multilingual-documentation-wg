@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Multilingual Documentation Working Group
 
 This working group’s mission is to support multilingual documentation in
