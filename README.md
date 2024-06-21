@@ -42,4 +42,4 @@ the list.
 
 -   Slack channel for informal and quick communication: [#wg-multilingual-r-documentation in the R Consortium Slack](https://rconsortium.slack.com/archives/C075V1SUKT9)
 
--   Mailing list for formal announcements
+-   [Mailing list](https://lists.r-consortium.org/g/WG-Multilingual-R-doc) for formal announcements
