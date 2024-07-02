@@ -28,6 +28,7 @@ R.
 -   Elio Campitelli: WG Lead
 -   Gergely Daroczi
 -   Michael Chirico
+-   Yani Bellini Saibene: Create teaching materials for these tools. Integrate this solution to the one used and developed by rOpenSci and R-Ladies. 
 
 To contribute to this working group, please open a PR to add you name on
 the list.
